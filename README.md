@@ -126,7 +126,7 @@ Notes
 Connect to Asncoin
 -----
 
-* Use :  multichaind ASN@asncoin.com:9976 -daemon
+ multichaind ASN@asncoin.com:9976 -daemon
 
 
 
